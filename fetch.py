@@ -3,7 +3,7 @@ import imaplib
 import os
 
 user = 'gerardkodjo9@gmail.com'
-password = 'efua02605790'
+password = 'efugjhgjgj0'
 imap_url = 'imap.gmail.com'
 """
 # Pas trop important
